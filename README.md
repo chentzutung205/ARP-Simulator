@@ -16,8 +16,8 @@ The ARP protocol is used to map IP network addresses to the hardware (MAC) addre
 ## Installation
 1. Clone this repository:
 ```
-git clone https://github.com/chentzutung205/arp-simulator.git
-cd arp-simulator
+git clone https://github.com/chentzutung205/ARP-Simulator.git
+cd ARP-Simulator
 ```
 2. No additional dependencies are required, as this implementation relies on Python's built-in libraries.
 
